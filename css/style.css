@@ -4,6 +4,7 @@ body {
   text-align: center;
   margin-top: 130px;
   font-family: sans-serif;
+  max-width: 600px;
 }
 
 .container {
