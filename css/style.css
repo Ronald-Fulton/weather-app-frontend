@@ -1,0 +1,60 @@
+body {
+  padding: 0;
+  margin: 0;
+  text-align: center;
+  margin-top: 130px;
+  font-family: sans-serif;
+}
+
+.container {
+  max-width: 480px;
+}
+
+.city-name {
+  font-size: 20px;
+  margin-bottom: 35px;
+}
+
+.top-stats {
+  margin-bottom: 30px;
+}
+
+.wind,
+.percip,
+.chance-of-rain,
+.current {
+  padding-right: 25px;
+}
+
+.current {
+  font-size: 45px;
+  color: black;
+}
+
+.temp {
+  font-size: 200px;
+}
+
+.forecast {
+  display: inline-block;
+}
+
+.tue,
+.wed,
+.thur,
+.fri,
+.sat {
+  float: left;
+  padding: 0 45px 0 0;
+  border-right: 2px solid black;
+  height: 100px;
+  margin-right: 10px;
+}
+
+.sat {
+  border-right: none;
+}
+
+.forecast i {
+  margin-bottom: 10px;
+}
