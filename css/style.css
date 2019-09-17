@@ -68,5 +68,6 @@ body {
 
   .forecast {
     justify-content: center;
+    margin-left: 5px;
   }
 }
