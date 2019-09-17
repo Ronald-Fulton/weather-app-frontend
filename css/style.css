@@ -69,4 +69,12 @@ body {
   .forecast {
     justify-content: center;
   }
+
+  .tue,
+.wed,
+.thur,
+.fri,
+.sat {
+  padding-left: 10px;
+}
 }
