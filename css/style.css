@@ -65,4 +65,8 @@ body {
   .temp {
     font-size: 150px;
   }
+
+  .forecast {
+    justify-content: center;
+  }
 }
