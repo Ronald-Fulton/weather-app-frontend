@@ -58,3 +58,11 @@ body {
 .forecast i {
   margin-bottom: 10px;
 }
+
+
+
+@media only screen and (max-width: 600px) {
+  .temp {
+    font-size: 150px;
+  }
+}
